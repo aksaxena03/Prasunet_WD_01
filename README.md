@@ -2,11 +2,6 @@
 
 Welcome to my internship projects repository! This repository contains four projects that I developed during my internship. Below, you'll find descriptions and instructions for each project.
 
-## Table of Contents
-1. [Responsive Landing Page](#responsive-landing-page)
-2. [Stopwatch](#stopwatch)
-3. [Tic Tac Toe](#tic-tac-toe)
-
 ## Responsive Landing Page
 
 ### Description
@@ -19,7 +14,7 @@ A fully responsive landing page designed to adapt to different screen sizes, pro
 - Modern UI/UX design
 
 ### Screenshot
-![Responsive Landing Page](assets/images/Navbar.png)
+![Responsive Landing Page](assets/images/Navbar.jpg)
 
 ### Technologies Used
 - HTML
